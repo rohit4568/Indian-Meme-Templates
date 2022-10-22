@@ -654,10 +654,27 @@
       "template":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.sproutsocial.com%2Fuploads%2Fmeme-example.jpg&imgrefurl=https%3A%2F%2Fsproutsocial.com%2Fglossary%2Fmeme%2F&tbnid=A18Nir-EY2_TPM&vet=12ahUKEwi37YSB7s_6AhWRxqACHStaBEcQMygAegUIARC2AQ..i&docid=EPPrysuzhQq0gM&w=700&h=468&q=meme&ved=2ahUKEwi37YSB7s_6AhWRxqACHStaBEcQMygAegUIARC2AQ"
 
    },
+
    {
       "id" :571,
       "name":"Memes",
       "description":"ha ye krlo pahile",
       "template":"https://www.scrolldroll.com/wp-content/uploads/2021/05/Haan-Ye-Karlo-Pehle-Meme-Template.jpg"
    },
+
+   
+   {
+      "id":572,
+      "name": "Hera Pheri Memes",
+      "description":"Paresh Raval - Sunday Ko Aa Haan Sunday Ko Mast Naha Dho Ke Aa",
+      "template":"https://humornama.com/meme-templates/sunday-ko-aa-haan-meme-template/"
+   }
+
 ]
+
+   {
+      "id":571,
+      "name":"Pankaj Tripathi - Budhi bahut tez hai tumhari",
+      "description":"Mirzapur season 1 Memes",
+      "template":"https://humornama.com/meme-templates/buddhi-bahut-tez-hai-tumhari-meme-template/"
+   },
